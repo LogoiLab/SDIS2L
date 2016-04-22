@@ -1,6 +1,6 @@
 # SDIS²L (Software Distribution Disclaimer License) v1.3.3
 ___
-> The definition of "software" herin is any code, data, or logic system that constitutes the "software" which which this license is packaged, distributed, or associated with.
+> The definition of "software" herin is any code, data, or logic system that constitutes the "software" with which this license is packaged, distributed, or associated with.
 
 This software is provided as is, without a warranty.
 =
