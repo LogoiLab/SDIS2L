@@ -19,7 +19,7 @@ This includes, but is not limited to:
 
 - The **sale, barter or trade**(*or any method of obtaining profit with or from*) this software for profit(*personal or otherwise*).
 - The use of this software for any **destructive** or **dangerous purposes**.
-- The use of this software with **critical systems**
+- The use of this software with **critical systems**.
 
 The creator of this software is in no way responsible for any circumstances that arise from using this software.
 -
